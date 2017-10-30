@@ -1,3 +1,13 @@
 To run the server:
 $> npm install
-$> node app.js
+$> nodemon app.js
+
+Sample Node JS API
+-------------------
+
+Sample API Videos created for sample and will be hosted in localhost:3000/api/videos or 127.0.0.1/api/videos
+
+Videos list data as of now listed from JSON and shared back to Front End.
+
+Same can be added into MongoDb or MySQL and it will be consumed from Node JS
+
